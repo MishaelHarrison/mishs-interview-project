@@ -14,10 +14,54 @@ public class StackTest {
         stack = new Stack();
     }
 
-//    @Test
-//    public void isEmpty_returnsTrue_whenEmpty(){
-//
-//    }
+    // define a test that will check if the isEmpty() method returns false when the stack is unaltered
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //    @Test
 //    public void isEmpty_returnsFalse_afterCallingPush(){
