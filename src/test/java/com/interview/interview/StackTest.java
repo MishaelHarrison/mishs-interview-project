@@ -7,14 +7,13 @@ import static org.junit.Assert.*;
 
 public class StackTest {
 
-    private Stack stack;
-
     @Before
-    public void runBeforeEveryTest() {
-        stack = new Stack();
+    public void setUp(){
+
     }
 
-    // define a test that will check if the isEmpty() method returns true when the stack is unaltered
+    // define a test that will check if the isEmpty() method returns true
+    // when no actions have been taken on it
 
 
 
