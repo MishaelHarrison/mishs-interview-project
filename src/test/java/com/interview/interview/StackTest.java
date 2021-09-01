@@ -14,6 +14,9 @@ public class StackTest {
         stack = new Stack();
     }
 
+    @Test
+    public void test(){assertTrue(true);}
+
     // define a test that will check if the isEmpty() method returns false when the stack is unaltered
 
 
