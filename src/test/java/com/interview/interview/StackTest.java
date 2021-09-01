@@ -14,7 +14,7 @@ public class StackTest {
         stack = new Stack();
     }
 
-    // define a test that will check if the isEmpty() method returns false when the stack is unaltered
+    // define a test that will check if the isEmpty() method returns true when the stack is unaltered
 
 
 
