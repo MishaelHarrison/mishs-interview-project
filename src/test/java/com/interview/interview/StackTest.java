@@ -7,13 +7,8 @@ import static org.junit.Assert.*;
 
 public class StackTest {
 
-    @Before
-    public void setUp(){
-
-    }
-
     // define a test that will check if the isEmpty() method returns true
-    // when no actions have been taken on it
+    // when no actions have been taken on the stack
 
 
 
