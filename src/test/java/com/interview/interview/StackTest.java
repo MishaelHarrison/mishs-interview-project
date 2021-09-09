@@ -7,9 +7,6 @@ import static org.junit.Assert.*;
 
 public class StackTest {
 
-    // define a test that will check if the isEmpty() method returns true
-    // when no actions have been taken on the stack
-
 
 
 
@@ -73,7 +70,7 @@ public class StackTest {
 //    }
 
 //    @Test
-//    public void pop_throwsEmptyStackException_whenEmpty(){
+//    public void pop_throwsEmptyCollectionException_whenEmpty(){
 //
 //    }
 
@@ -83,12 +80,12 @@ public class StackTest {
 //    }
 
 //    @Test
-//    public void peek_returnsNull_afterPop(){
+//    public void peek_returnsNull_afterPushThanPop(){
 //
 //    }
 
 //    @Test
-//    public void isEmpty_returnsTrue_afterPop(){
+//    public void isEmpty_returnsTrue_afterPushThanPop(){
 //
 //    }
 
